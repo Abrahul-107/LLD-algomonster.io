@@ -1,4 +1,4 @@
-package OopsFundamentals;
+package OopsFundamentals.classesAndObject.java;
 class Car
 {
     private String Brand;
